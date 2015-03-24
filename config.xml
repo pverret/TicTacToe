@@ -5,13 +5,13 @@
         id          = "edu.iupui.n300.HelloWorld"
         version     = "1.0.0" >
 
-    <name>Hello World</name>
+    <name>Tic Tac Toe Game</name>
 
     <description>
-        A hellow world example app.
+        A Tic Tac Toe example app.
     </description>
 
-    <author href="https://github.com/ProfessorKevinForbes/Hello World" email="professorkevinforbes@gmail.com">
+    <author href="" email="pverret@mitre.org">
         Kevin Forbes
     </author>
 
